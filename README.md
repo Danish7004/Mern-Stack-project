@@ -1,7 +1,7 @@
 # MERN Stack 
 > this website built with the MERN Stack with React Context API for state management, and pure CSS for style
 
-## Demo: https://fashion-clothe.herokuapp.com
+## Demo: https://fashion-destiny.herokuapp.com
 
 ## installed dependencies for backend
 npm install   
