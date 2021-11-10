@@ -20,7 +20,7 @@ npm install
 
 ## Connected to the database through mongoose in server.js file ...database Url link saved to .env
 
-## created models and its corresponding controllers and then routing 
+## created models and its corresponding controllers and their routing 
 ## authorization check in middlewares
 
                 
