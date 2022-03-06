@@ -52,10 +52,6 @@ if(process.env.NODE_ENV === 'production'){
     app.get('*', (req, res) => {
         res.sendFile(path.join(__dirname, "client", "build", "index.html"))
     })
-}else{
-     app.get('/', (req,res)=>{
-    res.json({msg: "We are currently facing some issue"})
-})
 }
 
 const PORT = process.env.PORT || 5000
