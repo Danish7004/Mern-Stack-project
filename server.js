@@ -41,9 +41,9 @@ mongoose.connect(URI,{
     console.log('database connected')
 })
 
-// app.get('/', (req,res)=>{
-//     res.json({msg: "hello world"})
-// })
+app.get('/', (req,res)=>{
+    res.json({msg: "hello world"})
+})
 
 
 //for deployment
